@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import xlsxwriter
 
-src_path = r"C:\Users\sdash029\Desktop\Project DAWN\3212018\JAPAN"
+src_path = r"provide your source path here"
 
 number_files = 0
 
